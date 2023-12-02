@@ -5,16 +5,22 @@ repo: upptime # The name of this repository
 sites:
   - name: 导航
     url: https://nav.yjr.me
+    maxResponseTime: 3000
   - name: memos笔记
     url: https://memos.yjr.me
+    maxResponseTime: 3000
   - name: GPT Web
     url: https://chat.yjr.me
+    maxResponseTime: 3000
   - name: one api
     url: https://one.yjr.me
+    maxResponseTime: 3000
   - name: 探针
     url: https://nezha.yjr.me
+    maxResponseTime: 3000
   - name: Telegram图床
     url: https://img.130712.xyz
+    maxResponseTime: 3000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
