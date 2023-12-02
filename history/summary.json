@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nav.yjr.me.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {
-      "2023-12-02": 0
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   },
   {
     "name": "memos笔记",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/memos.yjr.me.ico",
     "slug": "memos",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 242,
     "timeDay": 242,
     "timeWeek": 242,
     "timeMonth": 242,
     "timeYear": 242,
-    "dailyMinutesDown": {
-      "2023-12-02": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GPT Web",
@@ -81,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nezha.yjr.me.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
-    "dailyMinutesDown": {
-      "2023-12-02": 0
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 248,
+    "timeDay": 248,
+    "timeWeek": 248,
+    "timeMonth": 248,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Telegram图床",
