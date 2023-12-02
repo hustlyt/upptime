@@ -31,5 +31,17 @@ status-website:
   #  - title: GitHub
   #    href: https://github.com/$OWNER/$REPO
 
+i18n:
+  liveStatus: 实时状态
+  allSystemsOperational: 所有系统正常运行
+  overallUptimeTitle: 运行时间
+  averageResponseTimeTitle: 平均响应时间
+  averageResponseTime: 平均响应时间: $TIMEms
+  sevelDayResponseTime: 7天内响应时间
+  responseTimeMs: 响应时间 (ms)
+  up: 正常
+  down: 异常
+  footer: 开源项目[Upptime](https://upptime.js.org)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
