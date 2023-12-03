@@ -4,18 +4,20 @@
     "url": "https://nav.yjr.me",
     "icon": "https://icons.duckduckgo.com/ip3/nav.yjr.me.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 229,
+    "timeDay": 230,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "memos笔记",
@@ -58,36 +60,40 @@
     "url": "https://one.yjr.me",
     "icon": "https://icons.duckduckgo.com/ip3/one.yjr.me.ico",
     "slug": "one-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 464,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 296,
+    "timeDay": 276,
+    "timeWeek": 296,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "探针",
     "url": "https://nezha.yjr.me",
     "icon": "https://icons.duckduckgo.com/ip3/nezha.yjr.me.ico",
     "slug": "",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 236,
-    "timeDay": 229,
+    "timeDay": 230,
     "timeWeek": 236,
     "timeMonth": 236,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Telegram图床",
