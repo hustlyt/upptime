@@ -16,7 +16,7 @@
     "timeMonth": 282,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-01-09": 2096,
+      "2024-01-09": 2105,
       "2024-01-08": 2880,
       "2024-01-07": 2880,
       "2024-01-06": 1892,
@@ -86,19 +86,19 @@
     "url": "https://chat.yjr.me",
     "icon": "https://icons.duckduckgo.com/ip3/chat.yjr.me.ico",
     "slug": "gpt-web",
-    "status": "up",
-    "uptime": "94.36%",
-    "uptimeDay": "3.65%",
-    "uptimeWeek": "68.92%",
-    "uptimeMonth": "92.85%",
-    "uptimeYear": "94.36%",
+    "status": "down",
+    "uptime": "94.38%",
+    "uptimeDay": "5.50%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "94.38%",
     "time": 194,
     "timeDay": 244,
     "timeWeek": 267,
     "timeMonth": 215,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-01-09": 1022,
+      "2024-01-09": 1013,
       "2024-01-08": 1440,
       "2024-01-07": 671
     }
@@ -120,7 +120,7 @@
     "timeMonth": 567,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2024-01-09": 1074,
+      "2024-01-09": 1092,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
@@ -177,7 +177,7 @@
     "timeMonth": 282,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-01-09": 2096,
+      "2024-01-09": 2105,
       "2024-01-08": 2880,
       "2024-01-07": 2880,
       "2024-01-06": 1892,
