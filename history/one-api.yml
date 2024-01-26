@@ -1,7 +1,7 @@
 url: https://one.yjr.me
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-23T23:19:52.762Z
+status: degraded
+code: 502
+responseTime: 9707
+lastUpdated: 2024-01-26T04:41:02.076Z
 startTime: 2023-12-02T04:06:39.156Z
 generator: Upptime <https://github.com/upptime/upptime>
